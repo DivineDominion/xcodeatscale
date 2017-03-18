@@ -1,6 +1,6 @@
 ![header](artworks/header.png)
 
-## What's ['Xcode at Scale'](https://leanpub.com/swiftatscale)?
+## What's ['Xcode at Scale'](https://leanpub.com/xcodeatscale)?
 
 The book will guide you through design principles and patterns to build apps that easily scale with your team and project's growth. It'll help you identify scalability issues and bottlenecks and provide you with alternatives and tips to prevent them.
 
@@ -8,7 +8,7 @@ The book will guide you through design principles and patterns to build apps tha
 
 ## How to contribute?
 
-- Open an [issue](https://github.com/pepibumur/swiftatscale/issues/new).
+- Open an [issue](https://github.com/pepibumur/xcodeatscale/issues/new).
 - Send feedback via [email](mailto://pepibumur@gmail.com).
 - Propose your own fixes, suggestions and open a pull request with the changes.
 
