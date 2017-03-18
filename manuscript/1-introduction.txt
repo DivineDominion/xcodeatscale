@@ -58,5 +58,5 @@ Yes, although it sounds like a software project it's actually a book. Thanks to 
 
 This book is not perfect and I'm sure that you'll find some mistake. If you'd like to ask something related to the book you can use any of the following channels:
 
-- You can create an issue directly on the [GitHub repository](https://github.com/pepibumur/xcodeatscale).
+- You can create an issue directly on the [GitHub repository](https://github.com/pepibumur/swiftatscale).
 - Send me an email: [pepibumur@gmail.com](mailto://pepibumur@gmail.com).
